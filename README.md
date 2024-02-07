@@ -11,9 +11,9 @@
 
 🌐 Spoken Languages: Spanish (Native) / English (Intermediate)
 
-🌱 I’m currently learning: GIT / JAVASCRIPT 
+🌱 I’m currently learning: GIT / PHP / JAVASCRIPT 
 
-💬 Ask me about: HTML / CSS / JAVA / PYTHON / PHP / SQL
+💬 Ask me about: HTML / CSS / JAVA / PYTHON / SQL
 
 
 
