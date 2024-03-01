@@ -9,8 +9,6 @@
 ## About me
 👩‍💻 Software Engineering Student with AI
 
-🌐 Spoken Languages: Spanish (Native) / English (Intermediate)
-
 🌱 I’m currently learning: GIT / PHP / JAVASCRIPT 
 
 💬 Ask me about: HTML / CSS / JAVA / PYTHON / SQL
