@@ -26,7 +26,7 @@
 ## Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux,photoshop" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,eclipse,linux,photoshop" />
   </a>
 </p>
 
