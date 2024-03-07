@@ -9,7 +9,7 @@
 ## About me
 👩‍💻 Software Engineering Student with AI
 
-🌱 I’m currently learning: PHP / GIT / JAVASCRIPT 
+🌱 I’m currently learning: PHP/ C# / GIT / JAVASCRIPT 
 
 💬 Ask me about: HTML / CSS / JAVA / PYTHON / SQL
 
