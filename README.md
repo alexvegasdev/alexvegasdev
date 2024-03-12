@@ -9,9 +9,9 @@
 ## About me
 👩‍💻 Software Engineering Student with AI
 
-🌱 I’m currently learning: PHP / C# / XAML / GIT / JAVASCRIPT 
+🌱 I’m currently learning:  C# / XAML / GIT / JAVASCRIPT 
 
-💬 Ask me about: HTML / CSS / JAVA / PYTHON / SQL
+💬 Ask me about: HTML / CSS / JAVA / PYTHON / SQL / PHP
 
 
 
