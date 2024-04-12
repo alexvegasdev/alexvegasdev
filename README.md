@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex 👩‍🦱💻</h1>
+<h1 align="center">Hi, I'm Alexandra 💻💜</h1>
 
 <p align="right">
   <a href = "mailto:alexvegasdev@gmail.com" target="blank">
