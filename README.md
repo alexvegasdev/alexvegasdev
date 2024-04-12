@@ -6,24 +6,24 @@
   </a>
 </p>
 
-## About me
-🟣👩‍💻 Software Engineering Student with AI
+## 🟣 About me
+👩‍💻 Software Engineering Student with AI
 
-🟣🌱 I’m currently learning:  LARAVEL / C# / JAVASCRIPT 
+🌱 I’m currently learning:  LARAVEL / C# / JAVASCRIPT 
 
-🟣💬 Ask me about: HTML / CSS / JAVA / PYTHON / SQL / PHP
-
-
+💬 Ask me about: HTML / CSS / JAVA / PYTHON / SQL / PHP
 
 
-## Technologies
+
+
+## 🟣 Technologies
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,python,java,php,mysql,javascript,cs,laravel" />
   </a>
 </p>
 
-## Tools
+## 🟣 Tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,eclipse,linux,photoshop" />
