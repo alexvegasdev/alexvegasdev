@@ -7,11 +7,11 @@
 </p>
 
 ## About me
-👩‍💻 Software Engineering Student with AI
+🟣👩‍💻 Software Engineering Student with AI
 
-🌱 I’m currently learning:  LARAVEL / C# / JAVASCRIPT 
+🟣🌱 I’m currently learning:  LARAVEL / C# / JAVASCRIPT 
 
-💬 Ask me about: HTML / CSS / JAVA / PYTHON / SQL / PHP
+🟣💬 Ask me about: HTML / CSS / JAVA / PYTHON / SQL / PHP
 
 
 
