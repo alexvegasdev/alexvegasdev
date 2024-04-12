@@ -2,7 +2,7 @@
 
 <p align="right">
   <a href = "mailto:alexvegasdev@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-800080?style=for-the-badge&logo=gmail&logoColor=white" alt="@alexvegasdev"/>
+    <img align="center" src="https://img.shields.io/badge/Gmail-9572ac?style=for-the-badge&logo=gmail&logoColor=white" alt="@alexvegasdev"/>
   </a>
 </p>
 
