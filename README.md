@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## 🟣 About me
+## 🟪 About me
 👩‍💻 Software Engineering Student with AI
 
 🌱 I’m currently learning:  LARAVEL / C# / JAVASCRIPT 
