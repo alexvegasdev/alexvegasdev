@@ -7,7 +7,7 @@
 </p>
 
 ## 🟣 About me
-👩‍💻 Software Engineering with AI (Student)
+👩‍💻 Software Engineer with AI (Student)
 
 🌱 I’m currently learning:  LARAVEL / C# / JAVASCRIPT 
 
