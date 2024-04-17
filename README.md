@@ -1,4 +1,4 @@
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d6affa&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Alexandra+💻💜;Software+Engineering+Student)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d6affa&size=45&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Alexandra+💻💜;Software+Engineering+Student)
 
 <p align="center">
   <a href = "mailto:alexvegasdev@gmail.com" target="blank">
