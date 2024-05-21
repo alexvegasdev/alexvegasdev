@@ -14,12 +14,17 @@
 
 <p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,mysql,cs,laravel" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,laravel,mysql,cs,js,python" />
   </a>
 </p>
 <p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,photoshop,pr" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+  </a>
+</p>
+<p align="right">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=photoshop,pr" />
   </a>
 </p>
 
