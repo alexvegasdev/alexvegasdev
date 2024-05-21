@@ -15,7 +15,7 @@
 ## 🟣 Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,php,mysql,cs,laravel" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,mysql,cs,laravel" />
   </a>
 </p>
 
