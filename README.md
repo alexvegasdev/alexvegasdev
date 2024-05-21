@@ -15,14 +15,14 @@
 ## 🟣 Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,python,java,php,mysql,javascript,cs,laravel" />
+    <img src="https://skillicons.dev/icons?i=html,php,mysql,cs,laravel" />
   </a>
 </p>
 
 ## 🟣 Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,eclipse,linux,photoshop,pr" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,photoshop,pr" />
   </a>
 </p>
 
