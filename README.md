@@ -12,15 +12,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvegasdev&layout=compact&hide_border=true&title_color=d6affa&text_color=d6affa&bg_color=0d1117" />
 </div> 
 
-## 🟣 Technologies
-<p align="left">
+<p align="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,php,mysql,cs,laravel" />
   </a>
 </p>
-
-## 🟣 Tools
-<p align="left">
+<p align="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,photoshop,pr" />
   </a>
