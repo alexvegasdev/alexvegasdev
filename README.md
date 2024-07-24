@@ -12,13 +12,9 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=git,photoshop,pr" />
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=photoshop,pr" />
-  </a>
-</p>
+
 
 
