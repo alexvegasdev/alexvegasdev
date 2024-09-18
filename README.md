@@ -3,8 +3,7 @@
 <p style="text-align:center;">
 °•'`💻*°•'⋆'●◦°•🖱️'☆°•'°💜•🎆✨'⋆°•'.`*◦'°•'⋆°•'✰°•'°•'●°💻`*'◦☆°•'`*°•⭐ '⋆•'°•'💐☆`*◦°⋆'💜°•'●⋆°✨◦'☆°•'°•'◦'●🎆'☆°•'°•'⋆'°•'<br>
 </p>
-<br>
-<br>
+<br><br>
 
 ![Banner](https://img.shields.io/badge/Technologies-d6affa?style=flat)
 
@@ -15,8 +14,16 @@
 </div>
 
 <br>
-<br>
-<br>
+
+![Banner](https://img.shields.io/badge/Contact-d6affa?style=flat)
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail,linkedin" alt="My Skills" />
+  </a>
+</div>
+
+<br><br><br>
 <p style="text-align:center;">
 °•'°'☆*◦'⭐ ●°⋆°•'☆°•'°◦'●'*°🖱️•'☆'◦'°•💜'◦°*⋆'💻●°•'`*°•''☆◦🎆'°°•✨'⋆°•'●'°💜⋆◦*°•'☆💐'°◦'°⭐ •'⋆'°•
 </p>
