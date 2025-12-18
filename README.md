@@ -1,8 +1,9 @@
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d6affa&size=30&left=true&vCenter=true&width=1000&lines=Hi,+I'm+Alexandra;Software+Developer)
- 
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d6affa&size=30&left=true&vCenter=true&width=1000&lines=Software+Enginner)
+
+ ### Technologies and Tools
 <div align="left">
- 
- ![css3](https://img.shields.io/badge/CSS3-c4a4e1?style=for-the-badge&logo=css3&logoColor=1572B6)
+  
+ ![css3](https://img.shields.io/badge/CSS3-c4a4e1?style=for-the-badge&logo=css&logoColor=1572B6)
  ![html5](https://img.shields.io/badge/HTML5-c4a4e1?style=for-the-badge&logo=HTML5&logoColor=E34F26)
  ![js](https://img.shields.io/badge/JavaScript-c4a4e1?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
  ![Python](https://img.shields.io/badge/Python-c4a4e1?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -13,10 +14,13 @@
  ![hoppscotch](https://img.shields.io/badge/Hoppscotch-c4a4e1?style=for-the-badge&logo=hoppscotch&logoColor=09090B)
  ![postman](https://img.shields.io/badge/Postman-c4a4e1?style=for-the-badge&logo=postman&logoColor=FF6C37)
  ![git](https://img.shields.io/badge/Git-c4a4e1?style=for-the-badge&logo=git&logoColor=F05032)
+ </div>
 
-</div>
-
-
-
+ ### Languages
+ 📙
+<span style="font-size:20px;">🇺🇸</span>
+English (B2) 📗
+<span style="font-size:20px;">🇧🇷</span>
+Portuguese (A1+)
 
 
