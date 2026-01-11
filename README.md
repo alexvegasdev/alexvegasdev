@@ -21,6 +21,6 @@
 <span style="font-size:20px;">🇺🇸</span>
 English (B2) 📗
 <span style="font-size:20px;">🇧🇷</span>
-Portuguese (A1+)
+Portuguese (A2)
 
 
