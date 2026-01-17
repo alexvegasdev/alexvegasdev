@@ -16,11 +16,4 @@
  ![git](https://img.shields.io/badge/Git-c4a4e1?style=for-the-badge&logo=git&logoColor=F05032)
  </div>
 
- ### Languages
- 📙
-<span style="font-size:20px;">🇺🇸</span>
-English (B2) 📗
-<span style="font-size:20px;">🇧🇷</span>
-Portuguese (A2)
-
 
